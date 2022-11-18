@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HeartlessMister
-- 👀 I’m interested in Back-end development and Data science
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Back-end development
+- 🌱 I’m currently learning C#
+- 📫 yunuszkn01@gmail.com
 
 <!---
 HeartlessMister/HeartlessMister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
