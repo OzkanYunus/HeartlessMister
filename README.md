@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeartlessMister
 - 👀 I’m interested in Back-end development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning .Net
 - 📫 yunuszkn01@gmail.com
 
 <!---
